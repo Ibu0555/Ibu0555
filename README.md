@@ -1,26 +1,55 @@
-👋 Hi, I’m @MohamedIbrahimA  
-🎓 I’m an Information Technology undergrad at Sri Ramakrishna Engineering College, passionate about building meaningful solutions through tech.
 
-👀 I’m interested in:
-- Quantum Computing, AI, and Edge Intelligence  
-- MERN Stack Development & Mobile App Design (Flutter & Figma)  
-- Community building, open-source contributions, and tech-for-good initiatives  
-- Translation of Islamic lectures (English ➝ Tamil) and social impact projects  
+<h1 align="center">Hi there 👋, I'm Mohamed Ibrahim A</h1>
 
-🌱 Currently Learning:
-- Quantum Machine Learning & Stream Processing  
-- Cloud Computing, Security Fundamentals, and System Design  
-- Building full-stack apps and deploying real-world solutions  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+Quantum+Dreamer;Flutter+%2B+Figma+App+Builder;Community+Builder+%7C+GitHub+Campus+Expert+Hopeful;Kindhearted+Billionaire+In+Making+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
-💞️ I’m looking to collaborate on:
-- Innovative projects in AI/ML, Quantum Tech, and Cloud-Edge integration  
-- GitHub Campus Expert activities, tech events, and student communities  
-- Human-centered apps with real-world impact (e.g. Student Grievance Management System, Alzheimer’s Detection via Voice)  
+---
 
-📫 Reach Me:
-- 📧 mohamedibrahimabdullah@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/mohamed-ibrahim-a)  
-- 🌐 [GitHub](https://github.com/Ibu0555)  
+### 👨‍💻 About Me
 
-😄 Pronouns: He/Him  
-⚡ Fun Fact: I aspire to become a kindhearted billionaire who uplifts communities through tech, education, and compassion. 🌍💡
+- 🎓 I'm a **3rd Year IT student** at *Sri Ramakrishna Engineering College*
+- ⚙️ I’m passionate about:
+  - 🔬 **Quantum Computing** & **AI/ML**
+  - 🌐 **MERN Stack Development**
+  - 📱 Mobile App Design with **Flutter & Figma**
+  - 🧠 Voice-based Alzheimer’s Detection
+  - 🌍 Translating Islamic lectures (EN ➝ TA)
+- 🌱 Currently learning:
+  - 🧠 Quantum Machine Learning & Edge AI
+  - ☁️ Cloud Computing & System Design
+  - 🔐 Security, Routing & OSI Model concepts
+
+---
+
+### 🤝 I’m open to collaborate on
+- 🚀 Real-world projects with **social impact**
+- 📡 Cloud-Edge AI Integrations
+- 🧑‍🎓 Tech Events & Developer Communities
+- 🎯 Campus Initiatives like **GitHub Campus Expert**
+
+---
+
+### 📫 Reach Me On
+
+<p>
+  <a href="mailto:mohamedibrahimabdullah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-a"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Ibu0555"><img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 😄 Pronouns
+**He / Him**
+
+### ⚡ Fun Fact
+> I’m working towards becoming a **kindhearted billionaire** 💖 who leverages technology to uplift communities & create global impact 🌍🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibu0555&label=Profile%20views&color=0e75b6&style=flat" alt="Ibu0555" />
+</p>
+
