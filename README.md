@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Ibrahim A</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+Quantum+Dreamer;Flutter+%2B+Figma+App+Builder;Community+Builder+%7C+GitHub+Campus+Expert+Hopeful;Kindhearted+Billionaire+In+Making+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+Quantum+Dreamer;Flutter+%2B+Figma+App+Builder;Kindhearted+Billionaire+In+Making+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
